@@ -20,7 +20,7 @@ Crypto Price Tracker is a Node.js-based application that tracks the price, marke
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kamal030803/Crypto-Price-Tracker.git
    cd crypto-price-tracker
    ```
 
